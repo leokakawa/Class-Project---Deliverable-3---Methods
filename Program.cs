@@ -14,7 +14,7 @@ namespace Class_Project___Deliverable_3___Methods
                 try
             {
                 // Ask for user input
-                Console.WriteLine("Please input your name:");
+                Console.WriteLine("Please enter your name:");
                 string userName = HelloName();
 
                 // Show message to user input
