@@ -28,7 +28,7 @@ namespace Class_Project___Deliverable_3___Methods
             }
         }
 
-                // declare variables
+                
              private static string HelloName()
         {
             string UserName = Console.ReadLine();
